@@ -27,6 +27,7 @@ A curated list of awesome niche job boards.
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
+* [AI and ML Job Board] (https://www.aijobs.ai/) -A curated list of the best AI jobs for developers, designers and marketers.
 
 ## Big Data
 
